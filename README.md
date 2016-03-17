@@ -1,5 +1,2 @@
-卞逸轩的博客
 
-#2
-
-<a href='https://github.com/bianyixuan/blog-bb/issues/2'>学习</a>
+1. [关于performSelectorXXX的延迟使用](https://github.com/bianyixuan/blog-bb/issues/2)
