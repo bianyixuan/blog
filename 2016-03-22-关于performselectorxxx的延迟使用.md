@@ -1,6 +1,8 @@
+ #关于performSelectorXXX的延迟使用
+
+ 
     - (void)performSelector:(SEL)aSelector withObject:(id)anArgument afterDelay:(NSTimeInterval)delay; 
 
-#关于performSelectorXXX的延迟使用
 
 这个方法是单线程的，也就是说只有当前调用此方法的函数执行完毕后，selector方法才会被调用。
 
