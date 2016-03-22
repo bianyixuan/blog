@@ -1,4 +1,5 @@
- #关于performSelectorXXX的延迟使用
+
+# 关于performSelectorXXX的延迟使用
 
  
     - (void)performSelector:(SEL)aSelector withObject:(id)anArgument afterDelay:(NSTimeInterval)delay; 
